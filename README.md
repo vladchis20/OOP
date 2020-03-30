@@ -1,2 +1,1 @@
-# OOP
-Laboratoare OOP
+# Labor2
